@@ -1,4 +1,4 @@
-### India Power Generation Infrastructure Analysis using Python & Tableau
+# India Power Generation Infrastructure Analysis using Python & Tableau
 
 ## Project Background
 
