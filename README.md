@@ -46,7 +46,7 @@ Using Tableau, we created a series of interactive dashboards to visualize Indiaâ
 
 ## Datasets used in the project
 
-- **National Power Portal**: Daily power generation reports from 2018-2023.  
+- **National Power Portal**: Daily power generation reports from 2018-2023.  [https://npp.gov.in/publishedReports]() 
 - **Regional Weather Data**: To analyze weather patterns that might influence power generation (hydro, solar).  
 - **State-Level Economic Data**: For correlating energy production with economic activities.  
 - **Grid Data**: Power grid data for analyzing transmission efficiency and losses.
