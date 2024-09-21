@@ -13,7 +13,7 @@ As of 2024, India’s power sector continues to evolve, and understanding its dy
 The goal of this project is to analyze and visualize the usage patterns of India’s power generation infrastructure using Python and Tableau. By consolidating and analyzing the dataset, we can reveal insights on power generation efficiency, peak production periods, and the performance of different energy sources across states and regions.
 
 ### Tableau Link - 
-https://public.tableau.com/app/profile/shweta.anand/viz/India_Power_Generation_Analysis/PowerGenerationDashboard
+https://public.tableau.com/app/profile/shweta.anand/viz/IndiasPowerGenerationPattern/IndiasPowerGenerationPattern
 <br>
 
 ## Data
